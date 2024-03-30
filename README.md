@@ -31,7 +31,7 @@ Link :- https://techlearner06.github.io/Javascript_Projects/Project1-Passenger_C
 project 2 - Card Game - 21:
 The Card Game project is an interactive JavaScript game where players draw cards and aim to reach a total sum of 21. If the total sum exceeds 21, the player loses the game. Players can draw additional cards or choose to stand based on their current hand. The game offers an engaging experience to practice JavaScript logic and user interaction.
 
-Link :- https://techlearner06.github.io/Javascript_Projects/Project2-Card_Game/
+Link :- https://techlearner06.github.io/Javascript_Projects/project2-Card_Game/
 
 project 3 - Chrome Extension - URL Saver:
 The Chrome Extension - URL Saver project is a practical JavaScript application that extends the functionality of the Chrome browser. It allows users to save URLs of their favorite websites for easy access. Users can add, delete, and organize saved URLs directly from the browser toolbar, enhancing their browsing experience.
