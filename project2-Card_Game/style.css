@@ -1,0 +1,81 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* This ensures the whole viewport height is covered */
+    margin: 0;
+}
+
+
+button{
+    cursor: pointer;
+}
+
+.calculator-page{
+    text-align: center;
+    padding: 10px;
+    width:200px;
+    height:300px;
+    background-color: #f2f2f2;
+}
+
+.input-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+#num1, #num2{
+    
+    width:30px;
+    height:30px;
+    border:1px solid black;
+    margin-left: 5px;
+
+}
+
+.blackjack-game-section{
+    width:300px;
+    height:300px;
+    background-color: darkgreen;
+    text-align: center;
+}
+
+
+
+.heading-section h1{
+    color:goldenrod;
+    
+}
+
+.status-section{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+#start-btn{
+    background-color: goldenrod;
+    border:none;
+    outline:none;
+    width:150px;
+    padding: 5px;
+    color:darkgreen;
+    font-weight: bold;
+    border-radius:5px;
+}
+
+#new-card-btn{
+    margin-top: 10px;
+    background-color: goldenrod;
+    border:none;
+    outline:none;
+    width:150px;
+    padding: 5px;
+    color:darkgreen;
+    font-weight: bold;
+    border-radius:5px;
+}
